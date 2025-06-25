@@ -29,6 +29,7 @@ The goal is to support data-driven education policy recommendations by capturing
 | **Reddit**       | Anonymous threads, complaints, opinions     | Students, parents, expats, whistleblowers                       |
 | **Khaleej Times**| Official news stories on policy & reforms   | Government initiatives, tuition hikes, social reactions         |
 | **Reuters**      | International news articles on UAE education| Global education commentary, international policy perspective   |
+|**Quora**         |   Q&A threads, community answers| Curious learners, parents, teachers, subject-matter experts|   
 
 
 
